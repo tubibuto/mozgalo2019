@@ -1,10 +1,7 @@
 # Mozgalo2019
 
-Privatni repo za mozgalo
-
-CodaLab
-Username: BigWhales
-Password: velikakita
+Privatni repo za mozgalo (kopija originalnog repozitorija napravljena u 
+svrhu ne otkrivanja imena tima)
 
 Brzo parsiranje podataka je implementirano u VS cpp projektu 
 'MozgaloParser'. Kada budete buildali projekt pobrinite se da se builda 
